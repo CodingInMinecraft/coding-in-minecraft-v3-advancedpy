@@ -1,1 +1,3 @@
-
+player.onChat("run", function () {
+	
+})

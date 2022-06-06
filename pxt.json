@@ -7,6 +7,9 @@
         "builder": "*"
     },
     "files": [
+        "README.md",
+        "main.blocks",
+        "main.ts",
         "Lesson2/2.1.1/2.1.1.md",
         "Lesson2/2.2.1/2.2.1.md",
         "Lesson2/2.3.1/2.3.1.md",
@@ -42,21 +45,18 @@
         "Lesson6/6.3.2/6.3.2.md",
         "Lesson6/6.3/6.3.md",
         "Lesson6/6.4.1/6.4.1.md",
-        "Lesson6/6.4.2/6.4.2.md",
-        "main.blocks",
-        "main.ts",
-        "README.md"
+        "Lesson6/6.4.2/6.4.2.md"
     ],
     "testFiles": [
         "test.ts"
     ],
     "public": true,
     "targetVersions": {
-        "target": "1.6.11",
+        "target": "1.6.13",
         "targetId": "minecraft"
     },
     "supportedTargets": [
         "minecraft"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
