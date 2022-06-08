@@ -45,7 +45,8 @@
         "Lesson6/6.3.2/6.3.2.md",
         "Lesson6/6.3/6.3.md",
         "Lesson6/6.4.1/6.4.1.md",
-        "Lesson6/6.4.2/6.4.2.md"
+        "Lesson6/6.4.2/6.4.2.md",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
