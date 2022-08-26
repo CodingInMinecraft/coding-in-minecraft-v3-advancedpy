@@ -1,6 +1,6 @@
 {
     "name": "coding-in-minecraft-v3-advancedpy",
-    "version": "0.1.9",
+    "version": "0.1.10",
     "description": "",
     "dependencies": {
         "core": "*",
